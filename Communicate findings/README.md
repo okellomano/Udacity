@@ -12,7 +12,7 @@ During the investigation, data cleaning was done. I dropped rows with missing da
 
 > 
 <ul>
-    <li>There are more riders during weekdys than on weekends.<li>
+    <li>There are more riders during weekdys than on weekends.</li>
     <li>Most rides happen during the weekdays at 8:00 AM and 5:00 PM when people are going to and leaving work respectively.</li>
     <li>Despite of more rides during weekdays, weekends have longer ride duration.</li>
     <li>Most riders are aged between 25 and 35 years old.</li>
